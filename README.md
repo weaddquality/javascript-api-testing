@@ -8,7 +8,7 @@ Using `gulp` to be able to change environment, run all tests, specific tests or 
 * nodejs installed: https://nodejs.org/en/download/
 
 ### installation
-* `git clone https://github.com/sjansson/javascript-api-testing.git`
+* `git clone https://github.com/weaddquality/javascript-api-testing.git`
 * `npm install`
 
 ### run tests
